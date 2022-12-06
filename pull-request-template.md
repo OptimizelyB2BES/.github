@@ -12,11 +12,11 @@
 
 
 
-4. Files to Ignore *(automatically generated/modified files list)*
+4. Files to Ignore *(ie. automatically generated files, formatting only changes, etc.)*
 
 
 
-5. Test Considerations *(manual/automated test steps)*
+5. Testing Considerations *(manual/automated test steps)*
 
 
 
