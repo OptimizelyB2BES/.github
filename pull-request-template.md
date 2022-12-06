@@ -1,7 +1,7 @@
 # Github Pull Request
 
 1. Title of Jira Ticket *(purpose of PR)*
- 
+
 
 
 2. Jira Ticket # *(link)*
@@ -24,4 +24,6 @@
 
 
 
-*Attention: @B2BES_CodeReviewers*
+
+
+*Please create an @mention for the **B2BES_CodeReviewers** team below using @-autocomplete*
