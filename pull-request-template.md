@@ -20,7 +20,7 @@
 
 
 
-6. Other
+6. Background Information
 
 
 
