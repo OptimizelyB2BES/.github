@@ -8,7 +8,7 @@
 
 
 
-3. Work Type *(upgrade, new feature, bug fix, etc)*
+3. Work Type *(upgrade, new feature, bug fix, styling change, etc)*
 
 
 
