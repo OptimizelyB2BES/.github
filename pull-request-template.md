@@ -1,29 +1,21 @@
 # Github Pull Request
+Thank you for your contribution!
 
-1. Title of Jira Ticket *(purpose of PR)*
+### Jira Ticket # *(link)*
 
+### Jira Title *(purpose of PR)*
 
-
-2. Jira Ticket # *(link)*
-
-
-
-3. Work Type *(upgrade, new feature, bug fix, styling change, etc)*
-
-
-
-4. Files to Ignore *(ie. automatically generated files, formatting only changes, etc.)*
+### Work Type 
+- [ ] Bug fix
+- [ ] Upgrade
+- [ ] New feature
+- [ ] Styling change
+- [ ] Other (please specify)
 
 
+### Files to Ignore *(ie. automatically generated files, formatting only changes, etc.)*
 
-5. Testing Considerations *(manual/automated test steps)*
-
-
-
-6. Background Information
+### Notes for the reviewer *(issues encountered, code quality concerns, follow up suggestions, etc.)*
 
 
-
-
-
-*Please create an @mention for the **B2BES_CodeReviewers** team below using @-autocomplete*
+*Attn: <a class="team-mention js-team-mention notranslate" data-error-text="Failed to load team members" data-id="7086759" data-permission-text="Team members are private" data-url="/orgs/OptimizelyB2BES/teams/b2bes_codereviewers/members" data-hovercard-type="team" data-hovercard-url="/orgs/OptimizelyB2BES/teams/b2bes_codereviewers/hovercard" href="https://github.com/orgs/OptimizelyB2BES/teams/b2bes_codereviewers">@OptimizelyB2BES/b2bes_codereviewers</a>*
