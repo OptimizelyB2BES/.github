@@ -12,9 +12,6 @@ Thank you for your contribution!
 - [ ] Styling change
 - [ ] Other (please specify)
 
-
-### Files to Ignore *(ie. automatically generated files, formatting only changes, etc.)*
-
 ### Notes for the reviewer *(issues encountered, code quality concerns, follow up suggestions, etc.)*
 
 
